@@ -1,2 +1,3 @@
 # Mango_predict_tranfer_learning
 Xception
+#目的在於有效的分辨出不同品級的芒果，以減少人力的使用
